@@ -1,0 +1,4 @@
+digraph structs {
+	node [shape=plaintext]
+		structura1 [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0"><TR><TD>3</TD></TR><TR><TD>2</TD></TR><TR><TD>1</TD></TR></TABLE>>]
+}

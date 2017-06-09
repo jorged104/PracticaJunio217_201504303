@@ -1,0 +1,4 @@
+digraph {
+	cabeza [label="cabeza 1 1 + 1 * 1 -"]
+	null [label=nulo]
+}
